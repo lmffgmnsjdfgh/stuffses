@@ -1,0 +1,43 @@
+#title {
+	font-family: "Comic Sans MS", "Comic Sans", cursive; font-size:50px; font-weight:900; background-color:white; border-color:gray; border-style:solid;
+	border-width:30px;
+}
+#banner {
+	text-align:center; margin-left:35%; border-style:double; border-color:orange; border-width:30px;
+}
+#banner:hover {
+	text-align:center; margin-left:35%; border-style:dashed; border-color:blue; border-width:50px; opacity:0.2;
+}
+body {
+	background-image:url("https://github.com/Hexxitfan111/ITSA-Assignments/blob/master/Stuff/backgroundtile.png?raw=true"), url("https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Flag_of_Libya_%281977-2011%29.svg/2000px-Flag_of_Libya_%281977-2011%29.svg.png");
+	background-blend-mode:color;
+}
+#text_one {
+	font-family: 'Gloria Hallelujah'; font-style: normal; font-weight: 400; font-size:1.3em; background-color:white; border-color:gray; border-style:solid;
+	border-width:30px; text-align:center; padding-bottom:2%; margin-bottom:10%;
+}
+.text_two {
+	font-family: 'Indie Flower'; font-style: normal; font-weight: 900; font-size:3em; background-color:red; border-color:gray; border-style:solid;
+	border-width:30px; text-align:center;
+}
+#text_three {
+	font-family: 'Libre Barcode 39 Text'; font-style: normal; font-weight: 400; font-size:6em; background-color:blue; border-color:black; border-style:solid;
+	border-width:30px; text-align:center;
+}
+.text_two_small{
+	font-family: 'Indie Flower'; font-style: normal; font-weight: 900; font-size:2em; background-color:red; border-color:gray; border-style:solid;
+	border-width:30px; text-align:center;
+}
+#captcha {
+	width:400px; height:110px; border-style:solid; border-color:black; border-width:4px; border-radius:30px; margin-top:10px;
+}
+.fbg img{
+	max-width:900px; width:900px; height: auto; padding-left:18%; padding-top:10%;
+}
+.fbg label{
+	font-family: "Comic Sans MS", "Comic Sans", cursive; font-size:20px; font-weight:600; padding-left:33%;
+}
+.fbg {
+	background-color:white; border-color:gray; border-style:solid;
+	border-width:30px;
+}
