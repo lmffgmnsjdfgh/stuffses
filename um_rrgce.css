@@ -9,7 +9,7 @@
 	text-align:center; margin-left:35%; border-style:dashed; border-color:blue; border-width:50px; opacity:0.2;
 }
 body {
-	background-image:url("https://github.com/Hexxitfan111/ITSA-Assignments/blob/master/Stuff/backgroundtile.png?raw=true"), url("https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Flag_of_Libya_%281977-2011%29.svg/2000px-Flag_of_Libya_%281977-2011%29.svg.png");
+	background-image:url("https://github.com/lmffgmnsjdfgh/stuffses/blob/master/backgroundtile.png?raw=true"), url("https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Flag_of_Libya_%281977-2011%29.svg/2000px-Flag_of_Libya_%281977-2011%29.svg.png");
 	background-blend-mode:color;
 }
 #text_one {
@@ -40,4 +40,4 @@ body {
 .fbg {
 	background-color:white; border-color:gray; border-style:solid;
 	border-width:30px;
-}
+}e
