@@ -1,0 +1,49 @@
+.UM {
+	color:red;
+}
+body {
+	font-family: "Comic Sans MS", "Comic Sans", cursive; 
+	background-image: url("https://i.imgur.com/Hcl60wI.png"), url("https://image.freepik.com/free-vector/red-geometrical-background_1085-125.jpg");
+	background-blend-mode:luminosity;
+	
+	}
+#pre_title {
+	text-align:center; font-size:3em; background-color:gray; margin-bottom:100px;
+}
+#title {
+	text-align: center; font-size:5em; background-color:gray;
+}
+#subtitle {
+	text-align:center; font-size:2.5em; background-color:gray;
+}
+#button_sub {
+	padding-left:5%; padding-right:5%; padding-top:1%; padding-bottom:1%; margin-bottom:1%; margin-top:1%; color:red;
+}
+.text {
+	font-size:2em; background-color:gray; text-align:center; margin-bottom:5%; padding-bottom:5%; padding-top:5%;
+}
+#text_7 {
+	margin-bottom:50%;
+}
+#text_8 {
+	font-size:3em; background-color:gray; text-align:center; margin-bottom:5%; padding-bottom:5%; padding-top:5%;
+}
+#toxocara {
+	width:50%; height:35%; background-color:gray; margin-left:25%; border-style:solid; border-width:100px; border-color:grey;
+}
+#toxolabel {
+	margin-top:5%; background-color:gray; margin-left:34%;
+}
+.photo1{ 
+    transform-origin:50% 50%; animation:20s rotateRight infinite linear; padding-bottom:30px; padding-top:30px; width:40%; height:auto;
+}
+
+#photowrapper{
+	margin-left:40%;
+}
+@keyframes rotateRight{
+    100%{ transform:rotate(360deg); }
+}
+#no {
+	margin-left:2%
+}
